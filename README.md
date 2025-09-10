@@ -18,7 +18,7 @@ This project processes a dataset of text messages and uses natural language proc
 
 ## 📁 Dataset
 
-- Source: [UCI SMS Spam Collection Dataset]
+- Source: [SMS Spam Collection Dataset on Kaggle]
 - Records: 5,572
 - Columns: `v1` (label - spam or ham), `v2` (message text)
 
